@@ -1,16 +1,21 @@
 _repo: Odette-A-Fairy-Tale-for-Weary-People_58720
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Buhrer, Albert
     gutenberg_agent_id: '50115'
     url: http://www.gutenberg.org/2009/agents/50115
+covers:
+- cover_type: archival
+  image_path: 58720-h/images/cover.jpg
 creator:
   author:
     agent_name: Firbank, Ronald
     gutenberg_agent_id: '50114'
     url: http://www.gutenberg.org/2009/agents/50114
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58720#Odette-A-Fairy-Tale-for-Weary-People
 gutenberg_issued: '2019-01-19'
 gutenberg_type: Text
 identifiers:
